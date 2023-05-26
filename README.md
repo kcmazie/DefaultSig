@@ -9,6 +9,7 @@ We use a .docx template, with all formatting in place as well as the company log
 
 DisplayNameDesignation
 
+
 Title
 Company
 Department
@@ -28,3 +29,5 @@ Delete any of the files in the users profile
 Select the "-force $true" command line option.
 Change the script version number
 The "-console $true" option shows all operation output.
+
+
